@@ -5,9 +5,9 @@ It enables **direct, verified connections** between landlords and renters with a
 UNDER CONSTRUCTION
 ---
 
-Under Preview
-## 🚀 Features
 
+## 🚀 Features
+Under Preview
 ### 👤 Landlord
 - Secure login using OTP authentication
 - Upload rental listings with photos & videos
