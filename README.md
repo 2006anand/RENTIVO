@@ -8,7 +8,8 @@ It enables **direct, verified connections** between landlords and renters with a
 ### 👤 Landlord 
 
 
-UNDER Preview
+
+
 UNDER Preview
 
 - Secure login using OTP authentication
