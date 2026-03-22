@@ -6,7 +6,6 @@ It enables **direct, verified connections** between landlords and renters with a
 ## 🚀 Features
 ### 👤 Landlord 
 
-UNDER Preview
 - Secure login using OTP authentication
 - Upload rental listings with photos & videos
 - Hierarchical location selection (Country → State → District → City)
@@ -14,7 +13,7 @@ UNDER Preview
 - Tenant preferences (Veg / Non-Veg, Family / Bachelor)
 - Google Maps location pin (auto-detect & manual)
 - Manage, edit, and delete property listings
-
+UNDER Preview
 ### 🧑‍💼 Renter
 - Search rental properties by location
 - Apply smart filters (budget, preferences, furnishing)
