@@ -6,7 +6,7 @@ It enables **direct, verified connections** between landlords and renters with a
 **Under Preview**
 ## 🚀 Features
 ### 👤 Landlord 
-
+**Under Preview**
 - Secure login using OTP authentication
 - Upload rental listings with photos & videos
 - Hierarchical location selection (Country → State → District → City)
