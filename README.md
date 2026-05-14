@@ -8,7 +8,7 @@ It enables **direct, verified connections** between landlords and renters with a
 **Under Preview**
    **Under Preview**
 - Secure login using OTP authentication
-- Upload rental listings with photos & videos
+- under preview                                                                                                                                  Upload rental listings with photos & videos
 - Hierarchical location selection (Country → State → District → City)
 - Monthly rent & security deposit setup
 - Tenant preferences (Veg / Non-Veg, Family / Bachelor)
