@@ -10,7 +10,8 @@ under preview
 - Tenant preferences (Veg / Non-Veg, Family / Bachelor)
 - Google Maps location pin (auto-detect & manual)
 - Manage, edit, and delete property listings
-### 🧑‍💼 Renter
+### 🧑‍💼 Renter 
+under preview
 - Search rental properties by location
 - Apply smart filters (budget, preferences, furnishing)
 - View property images, videos, rent, and facilities
