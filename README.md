@@ -1,11 +1,10 @@
 # 🏠 RENTIVO
+Not Completed Yet
 **RENTIVO** is a smart, location-based rental platform that simplifies the process of finding and listing rental rooms and flats in India.  
 It enables **direct, verified connections** between landlords and renters with a modern UI, map-based discovery, and preference-driven search.
 ## 🚀 Features
 ### 👤 Landlord 
-under preview
 
-under preview
 - Secure login using OTP authentication                                                                                                      Upload rental listings with photos & videos
 - Hierarchical location selection (Country → State → District → City)
 - Monthly rent & security deposit setup
@@ -13,7 +12,7 @@ under preview
 - Google Maps location pin (auto-detect & manual)
 - Manage, edit, and delete property listings
 ### 🧑‍💼 Renter 
-under preview
+
 - Search rental properties by location
 - Apply smart filters (budget, preferences, furnishing)
 - View property images, videos, rent, and facilities
@@ -21,7 +20,6 @@ under preview
 - Show interest and contact landlord after approval
 
 ---
-under preview
 ## 🧠 System Highlights
 - Role-based access control (Landlord / Renter)
 - Secure contact unlocking to prevent spam
